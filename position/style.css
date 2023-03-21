@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.parent{
+
+}
+
+.child1{
+  position: absolute;
+  /* left: 40px; */
+}
+
+.child2{
+ /* position: fixed; */
+ position: absolute;
+ top: 50px;
+}
+
+.child3{
+    /* position: absolute; */
+
+}
